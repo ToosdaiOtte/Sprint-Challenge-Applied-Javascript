@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The D-ocument O-bject M-odel is an object representation of the html elements of a webpage which gives us an interface that we can interact with and manipulate the page, changing document structure, content, and styling.
+
 2. What is an event?
+
+Every interaction a user has with a site is known as an event, a click, moving the mouse, scrolling the page, pressing a key on the keyboard, etc. 
 
 3. What is an event listener?
 
+An event listener is a function that waits and listens for a certain event to happen before executing code.
+
 4. Why would we convert a NodeList into an Array?
 
+We need to convert NodeLists into Arrays in order to use array methods like forEach and map.
+
 5. What is a component?
+
+A component is made of several parts: HTML, CSS, or JavaScript brought together for reuse in a website or application.
 
 ### Git Set up
 
